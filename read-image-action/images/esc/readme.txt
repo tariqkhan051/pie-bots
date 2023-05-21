@@ -1,0 +1,1 @@
+if images present in this folder found on screen, esc action will be performed.

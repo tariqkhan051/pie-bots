@@ -1,0 +1,1 @@
+if images present in this folder found on screen, click action will be performed.
